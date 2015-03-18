@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="huangli_back" type="id">false</item>
+    <item name="huangli_date_bt" type="id">false</item>
+    <item name="ShareButton" type="id">false</item>
+    <item name="ScrollView01" type="id">false</item>
+    <item name="ViewFlipper01" type="id">false</item>
+    <item name="layout_date" type="id">false</item>
+    <item name="tv_date_month" type="id">false</item>
+    <item name="tv_date_year" type="id">false</item>
+    <item name="tv_date_week" type="id">false</item>
+    <item name="linearLayout2" type="id">false</item>
+    <item name="tv_date_day" type="id">false</item>
+    <item name="linearLayout3" type="id">false</item>
+    <item name="linearLayout5" type="id">false</item>
+    <item name="tv_huangli_date_year_month" type="id">false</item>
+    <item name="tv_huangli_date_day" type="id">false</item>
+    <item name="linearLayout6" type="id">false</item>
+    <item name="imageView1" type="id">false</item>
+    <item name="linearLayout4" type="id">false</item>
+    <item name="tv_nongli_date" type="id">false</item>
+    <item name="tv_jieqi" type="id">false</item>
+    <item name="linearLayout7" type="id">false</item>
+    <item name="linearLayout8" type="id">false</item>
+    <item name="textView8" type="id">false</item>
+    <item name="tv_taishen" type="id">false</item>
+    <item name="linearLayout9" type="id">false</item>
+    <item name="linearLayout10" type="id">false</item>
+    <item name="textView9" type="id">false</item>
+    <item name="tv_yi" type="id">false</item>
+    <item name="linearLayout11" type="id">false</item>
+    <item name="tv_ji" type="id">false</item>
+    <item name="tv_chong" type="id">false</item>
+    <item name="tv_sha" type="id">false</item>
+    <item name="tv_cheng" type="id">false</item>
+    <item name="tv_zhengchong" type="id">false</item>
+    <item name="linearLayout12" type="id">false</item>
+    <item name="tv_date_month2" type="id">false</item>
+    <item name="tv_date_year2" type="id">false</item>
+    <item name="tv_date_week2" type="id">false</item>
+    <item name="tv_date_day2" type="id">false</item>
+    <item name="tv_huangli_date_year_month2" type="id">false</item>
+    <item name="tv_huangli_date_day2" type="id">false</item>
+    <item name="tv_nongli_date2" type="id">false</item>
+    <item name="tv_jieqi2" type="id">false</item>
+    <item name="tv_taishen2" type="id">false</item>
+    <item name="tv_yi2" type="id">false</item>
+    <item name="tv_ji2" type="id">false</item>
+    <item name="tv_chong2" type="id">false</item>
+    <item name="tv_sha2" type="id">false</item>
+    <item name="tv_cheng2" type="id">false</item>
+    <item name="tv_zhengchong2" type="id">false</item>
+
+</resources>
